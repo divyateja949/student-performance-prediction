@@ -1,0 +1,401 @@
+StudentID,Department,Subject,Year,Semester,Gender,AssessmentType,Category,Frequency,PassedCourse,StudyHours,Attendance,PreviousScore,Score,WeightedScore,FinalGrade,Teacher
+S001,English,English Language Arts,2024,Fall,Female,Weekly,Core,Monthly,Yes,3.4,85.1,70.3,59.3,13.78,C,Teacher 1
+S001,Arts,Arts,2025,Spring,Female,Quarter,Core,Monthly,Yes,3.4,85.1,70.3,67.6,15.06,C,Teacher 1
+S001,Science,Science,2023,Fall,Female,Quarter,Core,Weekly,Yes,3.4,85.1,70.3,65.5,14.95,C,Teacher 1
+S001,Social Studies,Social Studies,2024,Spring,Female,Project,Elective,Monthly,Yes,3.4,85.1,70.3,54.2,10.98,D,Teacher 1
+S001,Mathematics,Mathematics,2022,Fall,Female,Weekly,Core,Term,Yes,3.4,85.1,70.3,51.5,11.48,D,Teacher 1
+S001,Technology,Technology,2023,Spring,Female,Project,Core,Term,Yes,3.4,85.1,70.3,62.8,14.06,C,Teacher 1
+S001,Languages,Languages,2024,Summer,Female,Weekly,Core,Monthly,Yes,3.4,85.1,70.3,51.3,12.04,D,Teacher 1
+S001,Physical Education,Physical Education,2023,Summer,Female,Project,Elective,Monthly,Yes,3.4,85.1,70.3,61.4,12.24,C,Teacher 1
+S002,English,English Language Arts,2024,Fall,Male,Quarter,Core,Weekly,Yes,2.1,72.5,52.3,44.2,8.66,D,Teacher 2
+S002,Arts,Arts,2025,Spring,Male,Quarter,Elective,Term,Yes,2.1,72.5,52.3,48.0,9.23,D,Teacher 2
+S002,Science,Science,2023,Fall,Male,Quarter,Core,Weekly,Yes,2.1,72.5,52.3,56.5,11.3,C,Teacher 2
+S002,Social Studies,Social Studies,2024,Spring,Male,Project,Elective,Term,Yes,2.1,72.5,52.3,59.9,13.75,C,Teacher 2
+S002,Mathematics,Mathematics,2022,Fall,Male,Project,Core,Weekly,No,2.1,72.5,52.3,33.1,6.44,F,Teacher 2
+S002,Technology,Technology,2023,Spring,Male,Weekly,Core,Weekly,No,2.1,72.5,52.3,37.6,8.54,F,Teacher 2
+S002,Languages,Languages,2024,Summer,Male,Quarter,Core,Term,No,2.1,72.5,52.3,39.1,8.43,F,Teacher 2
+S002,Physical Education,Physical Education,2023,Summer,Male,Weekly,Elective,Term,Yes,2.1,72.5,52.3,44.8,8.82,D,Teacher 2
+S003,English,English Language Arts,2024,Fall,Male,Project,Core,Term,Yes,5.4,84.2,46.8,52.0,10.09,D,Teacher 3
+S003,Arts,Arts,2025,Spring,Male,Quarter,Elective,Weekly,Yes,5.4,84.2,46.8,58.6,13.68,C,Teacher 3
+S003,Science,Science,2023,Fall,Male,Weekly,Elective,Term,Yes,5.4,84.2,46.8,50.7,9.47,D,Teacher 3
+S003,Social Studies,Social Studies,2024,Spring,Male,Quarter,Core,Term,Yes,5.4,84.2,46.8,55.8,11.54,C,Teacher 3
+S003,Mathematics,Mathematics,2022,Fall,Male,Project,Core,Weekly,Yes,5.4,84.2,46.8,61.5,12.22,C,Teacher 3
+S003,Technology,Technology,2023,Spring,Male,Weekly,Elective,Weekly,Yes,5.4,84.2,46.8,61.4,12.62,C,Teacher 3
+S003,Languages,Languages,2024,Summer,Male,Weekly,Core,Weekly,Yes,5.4,84.2,46.8,61.3,11.56,C,Teacher 3
+S003,Physical Education,Physical Education,2023,Summer,Male,Quarter,Elective,Monthly,Yes,5.4,84.2,46.8,67.1,14.92,C,Teacher 3
+S004,English,English Language Arts,2024,Fall,Male,Weekly,Core,Weekly,Yes,4.6,74.9,64.8,42.9,8.83,D,Teacher 4
+S004,Arts,Arts,2025,Spring,Male,Project,Core,Monthly,Yes,4.6,74.9,64.8,63.3,13.9,C,Teacher 4
+S004,Science,Science,2023,Fall,Male,Quarter,Core,Monthly,Yes,4.6,74.9,64.8,62.9,12.76,C,Teacher 4
+S004,Social Studies,Social Studies,2024,Spring,Male,Project,Elective,Term,Yes,4.6,74.9,64.8,55.5,11.81,C,Teacher 4
+S004,Mathematics,Mathematics,2022,Fall,Male,Quarter,Core,Monthly,Yes,4.6,74.9,64.8,58.8,12.25,C,Teacher 4
+S004,Technology,Technology,2023,Spring,Male,Weekly,Elective,Weekly,Yes,4.6,74.9,64.8,65.7,14.12,C,Teacher 4
+S004,Languages,Languages,2024,Summer,Male,Project,Elective,Term,Yes,4.6,74.9,64.8,52.2,12.47,D,Teacher 4
+S004,Physical Education,Physical Education,2023,Summer,Male,Weekly,Core,Monthly,Yes,4.6,74.9,64.8,58.1,11.77,C,Teacher 4
+S005,English,English Language Arts,2024,Fall,Female,Project,Core,Term,Yes,4.6,72.7,91.8,48.4,8.81,D,Teacher 5
+S005,Arts,Arts,2025,Spring,Female,Weekly,Core,Weekly,Yes,4.6,72.7,91.8,70.9,14.59,B,Teacher 5
+S005,Science,Science,2023,Fall,Female,Quarter,Core,Monthly,Yes,4.6,72.7,91.8,65.9,13.35,C,Teacher 5
+S005,Social Studies,Social Studies,2024,Spring,Female,Weekly,Core,Monthly,Yes,4.6,72.7,91.8,71.0,16.54,B,Teacher 5
+S005,Mathematics,Mathematics,2022,Fall,Female,Quarter,Core,Monthly,Yes,4.6,72.7,91.8,69.3,15.09,C,Teacher 5
+S005,Technology,Technology,2023,Spring,Female,Weekly,Elective,Weekly,Yes,4.6,72.7,91.8,74.1,15.96,B,Teacher 5
+S005,Languages,Languages,2024,Summer,Female,Quarter,Elective,Term,Yes,4.6,72.7,91.8,66.6,12.82,C,Teacher 5
+S005,Physical Education,Physical Education,2023,Summer,Female,Quarter,Core,Weekly,Yes,4.6,72.7,91.8,63.3,12.83,C,Teacher 5
+S006,English,English Language Arts,2024,Fall,Female,Project,Core,Weekly,Yes,1.4,81.4,88.2,48.9,9.86,D,Teacher 6
+S006,Arts,Arts,2025,Spring,Female,Project,Elective,Monthly,Yes,1.4,81.4,88.2,60.0,11.29,C,Teacher 6
+S006,Science,Science,2023,Fall,Female,Weekly,Elective,Weekly,Yes,1.4,81.4,88.2,55.0,10.85,C,Teacher 6
+S006,Social Studies,Social Studies,2024,Spring,Female,Weekly,Elective,Term,Yes,1.4,81.4,88.2,53.4,9.66,D,Teacher 6
+S006,Mathematics,Mathematics,2022,Fall,Female,Quarter,Elective,Weekly,Yes,1.4,81.4,88.2,58.0,12.42,C,Teacher 6
+S006,Technology,Technology,2023,Spring,Female,Quarter,Elective,Weekly,Yes,1.4,81.4,88.2,66.7,14.87,C,Teacher 6
+S006,Languages,Languages,2024,Summer,Female,Weekly,Elective,Weekly,Yes,1.4,81.4,88.2,53.0,12.58,D,Teacher 6
+S006,Physical Education,Physical Education,2023,Summer,Female,Quarter,Elective,Weekly,Yes,1.4,81.4,88.2,56.5,12.51,C,Teacher 6
+S007,English,English Language Arts,2024,Fall,Female,Project,Core,Term,Yes,3.3,99.9,47.2,49.7,11.57,D,Teacher 7
+S007,Arts,Arts,2025,Spring,Female,Quarter,Core,Weekly,Yes,3.3,99.9,47.2,64.2,14.91,C,Teacher 7
+S007,Science,Science,2023,Fall,Female,Quarter,Elective,Weekly,Yes,3.3,99.9,47.2,57.0,10.58,C,Teacher 7
+S007,Social Studies,Social Studies,2024,Spring,Female,Weekly,Core,Weekly,Yes,3.3,99.9,47.2,57.3,11.13,C,Teacher 7
+S007,Mathematics,Mathematics,2022,Fall,Female,Project,Core,Term,Yes,3.3,99.9,47.2,57.5,11.09,C,Teacher 7
+S007,Technology,Technology,2023,Spring,Female,Weekly,Elective,Weekly,Yes,3.3,99.9,47.2,47.2,10.93,D,Teacher 7
+S007,Languages,Languages,2024,Summer,Female,Quarter,Elective,Weekly,Yes,3.3,99.9,47.2,48.8,10.57,D,Teacher 7
+S007,Physical Education,Physical Education,2023,Summer,Female,Quarter,Core,Term,Yes,3.3,99.9,47.2,68.7,13.54,C,Teacher 7
+S008,English,English Language Arts,2024,Fall,Male,Project,Core,Term,Yes,2.5,98.5,82.2,62.5,14.47,C,Teacher 8
+S008,Arts,Arts,2025,Spring,Male,Quarter,Elective,Monthly,Yes,2.5,98.5,82.2,60.9,12.1,C,Teacher 8
+S008,Science,Science,2023,Fall,Male,Project,Elective,Weekly,Yes,2.5,98.5,82.2,70.9,13.91,B,Teacher 8
+S008,Social Studies,Social Studies,2024,Spring,Male,Weekly,Core,Weekly,Yes,2.5,98.5,82.2,71.7,15.33,B,Teacher 8
+S008,Mathematics,Mathematics,2022,Fall,Male,Weekly,Core,Monthly,Yes,2.5,98.5,82.2,55.4,11.67,C,Teacher 8
+S008,Technology,Technology,2023,Spring,Male,Weekly,Core,Weekly,Yes,2.5,98.5,82.2,74.4,17.21,B,Teacher 8
+S008,Languages,Languages,2024,Summer,Male,Weekly,Elective,Weekly,Yes,2.5,98.5,82.2,70.4,16.54,B,Teacher 8
+S008,Physical Education,Physical Education,2023,Summer,Male,Quarter,Elective,Term,Yes,2.5,98.5,82.2,55.2,10.62,C,Teacher 8
+S009,English,English Language Arts,2024,Fall,Male,Project,Core,Term,Yes,1.3,82.3,78.2,62.3,12.89,C,Teacher 1
+S009,Arts,Arts,2025,Spring,Male,Weekly,Elective,Weekly,Yes,1.3,82.3,78.2,57.9,11.68,C,Teacher 1
+S009,Science,Science,2023,Fall,Male,Weekly,Core,Weekly,Yes,1.3,82.3,78.2,46.5,8.55,D,Teacher 1
+S009,Social Studies,Social Studies,2024,Spring,Male,Project,Core,Monthly,Yes,1.3,82.3,78.2,48.0,9.29,D,Teacher 1
+S009,Mathematics,Mathematics,2022,Fall,Male,Project,Elective,Monthly,Yes,1.3,82.3,78.2,52.6,10.68,D,Teacher 1
+S009,Technology,Technology,2023,Spring,Male,Weekly,Elective,Term,Yes,1.3,82.3,78.2,47.2,9.73,D,Teacher 1
+S009,Languages,Languages,2024,Summer,Male,Quarter,Core,Term,Yes,1.3,82.3,78.2,59.5,11.1,C,Teacher 1
+S009,Physical Education,Physical Education,2023,Summer,Male,Project,Core,Monthly,Yes,1.3,82.3,78.2,64.8,14.29,C,Teacher 1
+S010,English,English Language Arts,2024,Fall,Male,Project,Core,Monthly,Yes,1.5,73.5,59.2,44.9,10.66,D,Teacher 2
+S010,Arts,Arts,2025,Spring,Male,Quarter,Elective,Term,No,1.5,73.5,59.2,32.2,6.69,F,Teacher 2
+S010,Science,Science,2023,Fall,Male,Weekly,Core,Weekly,Yes,1.5,73.5,59.2,47.9,10.82,D,Teacher 2
+S010,Social Studies,Social Studies,2024,Spring,Male,Quarter,Core,Term,No,1.5,73.5,59.2,38.2,8.23,F,Teacher 2
+S010,Mathematics,Mathematics,2022,Fall,Male,Weekly,Core,Monthly,Yes,1.5,73.5,59.2,44.0,8.6,D,Teacher 2
+S010,Technology,Technology,2023,Spring,Male,Weekly,Elective,Term,Yes,1.5,73.5,59.2,53.7,11.03,D,Teacher 2
+S010,Languages,Languages,2024,Summer,Male,Weekly,Core,Term,Yes,1.5,73.5,59.2,54.6,12.87,D,Teacher 2
+S010,Physical Education,Physical Education,2023,Summer,Male,Weekly,Elective,Weekly,No,1.5,73.5,59.2,34.9,7.88,F,Teacher 2
+S011,English,English Language Arts,2024,Fall,Female,Quarter,Elective,Monthly,Yes,6.5,72.3,76.1,67.5,13.48,C,Teacher 3
+S011,Arts,Arts,2025,Spring,Female,Quarter,Core,Weekly,Yes,6.5,72.3,76.1,66.6,13.13,C,Teacher 3
+S011,Science,Science,2023,Fall,Female,Weekly,Core,Term,Yes,6.5,72.3,76.1,65.4,12.12,C,Teacher 3
+S011,Social Studies,Social Studies,2024,Spring,Female,Weekly,Elective,Monthly,Yes,6.5,72.3,76.1,70.3,15.26,B,Teacher 3
+S011,Mathematics,Mathematics,2022,Fall,Female,Weekly,Core,Term,Yes,6.5,72.3,76.1,79.1,15.37,B,Teacher 3
+S011,Technology,Technology,2023,Spring,Female,Weekly,Elective,Monthly,Yes,6.5,72.3,76.1,63.6,14.24,C,Teacher 3
+S011,Languages,Languages,2024,Summer,Female,Project,Core,Monthly,Yes,6.5,72.3,76.1,76.6,17.42,B,Teacher 3
+S011,Physical Education,Physical Education,2023,Summer,Female,Quarter,Core,Monthly,Yes,6.5,72.3,76.1,70.4,12.83,B,Teacher 3
+S012,English,English Language Arts,2024,Fall,Male,Quarter,Elective,Weekly,Yes,6.5,79.7,91.0,83.7,18.13,B,Teacher 4
+S012,Arts,Arts,2025,Spring,Male,Project,Core,Monthly,Yes,6.5,79.7,91.0,77.5,16.06,B,Teacher 4
+S012,Science,Science,2023,Fall,Male,Quarter,Elective,Monthly,Yes,6.5,79.7,91.0,82.2,17.38,B,Teacher 4
+S012,Social Studies,Social Studies,2024,Spring,Male,Weekly,Core,Term,Yes,6.5,79.7,91.0,82.3,17.74,B,Teacher 4
+S012,Mathematics,Mathematics,2022,Fall,Male,Weekly,Core,Weekly,Yes,6.5,79.7,91.0,78.3,16.01,B,Teacher 4
+S012,Technology,Technology,2023,Spring,Male,Project,Elective,Weekly,Yes,6.5,79.7,91.0,83.4,18.65,B,Teacher 4
+S012,Languages,Languages,2024,Summer,Male,Project,Core,Weekly,Yes,6.5,79.7,91.0,71.4,16.76,B,Teacher 4
+S012,Physical Education,Physical Education,2023,Summer,Male,Project,Elective,Weekly,Yes,6.5,79.7,91.0,74.4,15.98,B,Teacher 4
+S013,English,English Language Arts,2024,Fall,Male,Weekly,Core,Monthly,Yes,3.2,90.7,68.0,57.4,10.54,C,Teacher 5
+S013,Arts,Arts,2025,Spring,Male,Project,Elective,Term,Yes,3.2,90.7,68.0,58.4,13.75,C,Teacher 5
+S013,Science,Science,2023,Fall,Male,Quarter,Core,Monthly,Yes,3.2,90.7,68.0,62.1,12.94,C,Teacher 5
+S013,Social Studies,Social Studies,2024,Spring,Male,Project,Core,Monthly,Yes,3.2,90.7,68.0,64.4,12.78,C,Teacher 5
+S013,Mathematics,Mathematics,2022,Fall,Male,Weekly,Elective,Term,Yes,3.2,90.7,68.0,70.4,13.62,B,Teacher 5
+S013,Technology,Technology,2023,Spring,Male,Project,Elective,Monthly,Yes,3.2,90.7,68.0,72.8,14.79,B,Teacher 5
+S013,Languages,Languages,2024,Summer,Male,Project,Core,Weekly,Yes,3.2,90.7,68.0,55.3,11.63,C,Teacher 5
+S013,Physical Education,Physical Education,2023,Summer,Male,Quarter,Core,Monthly,Yes,3.2,90.7,68.0,64.5,11.74,C,Teacher 5
+S014,English,English Language Arts,2024,Fall,Female,Quarter,Core,Term,Yes,5.6,82.4,77.0,75.2,14.89,B,Teacher 6
+S014,Arts,Arts,2025,Spring,Female,Quarter,Elective,Term,Yes,5.6,82.4,77.0,60.3,13.52,C,Teacher 6
+S014,Science,Science,2023,Fall,Female,Project,Elective,Monthly,Yes,5.6,82.4,77.0,80.2,17.83,B,Teacher 6
+S014,Social Studies,Social Studies,2024,Spring,Female,Weekly,Core,Weekly,Yes,5.6,82.4,77.0,74.9,14.37,B,Teacher 6
+S014,Mathematics,Mathematics,2022,Fall,Female,Project,Elective,Monthly,Yes,5.6,82.4,77.0,71.5,15.62,B,Teacher 6
+S014,Technology,Technology,2023,Spring,Female,Weekly,Elective,Monthly,Yes,5.6,82.4,77.0,78.1,17.07,B,Teacher 6
+S014,Languages,Languages,2024,Summer,Female,Project,Elective,Monthly,Yes,5.6,82.4,77.0,83.7,16.19,B,Teacher 6
+S014,Physical Education,Physical Education,2023,Summer,Female,Weekly,Elective,Weekly,Yes,5.6,82.4,77.0,75.8,14.71,B,Teacher 6
+S015,English,English Language Arts,2024,Fall,Male,Quarter,Elective,Term,Yes,4.7,74.4,67.8,59.9,13.88,C,Teacher 7
+S015,Arts,Arts,2025,Spring,Male,Weekly,Core,Monthly,Yes,4.7,74.4,67.8,71.7,13.83,B,Teacher 7
+S015,Science,Science,2023,Fall,Male,Weekly,Elective,Term,Yes,4.7,74.4,67.8,55.3,10.21,C,Teacher 7
+S015,Social Studies,Social Studies,2024,Spring,Male,Quarter,Elective,Monthly,Yes,4.7,74.4,67.8,63.3,14.2,C,Teacher 7
+S015,Mathematics,Mathematics,2022,Fall,Male,Project,Core,Monthly,Yes,4.7,74.4,67.8,74.4,17.47,B,Teacher 7
+S015,Technology,Technology,2023,Spring,Male,Weekly,Elective,Term,Yes,4.7,74.4,67.8,70.1,12.68,B,Teacher 7
+S015,Languages,Languages,2024,Summer,Male,Weekly,Elective,Weekly,Yes,4.7,74.4,67.8,56.6,11.61,C,Teacher 7
+S015,Physical Education,Physical Education,2023,Summer,Male,Weekly,Elective,Term,Yes,4.7,74.4,67.8,79.3,16.53,B,Teacher 7
+S016,English,English Language Arts,2024,Fall,Female,Weekly,Elective,Term,No,1.4,88.1,50.2,35.6,7.64,F,Teacher 8
+S016,Arts,Arts,2025,Spring,Female,Quarter,Core,Term,Yes,1.4,88.1,50.2,47.6,9.23,D,Teacher 8
+S016,Science,Science,2023,Fall,Female,Weekly,Core,Monthly,Yes,1.4,88.1,50.2,50.9,11.0,D,Teacher 8
+S016,Social Studies,Social Studies,2024,Spring,Female,Project,Core,Term,Yes,1.4,88.1,50.2,47.5,10.31,D,Teacher 8
+S016,Mathematics,Mathematics,2022,Fall,Female,Quarter,Core,Term,Yes,1.4,88.1,50.2,42.6,9.98,D,Teacher 8
+S016,Technology,Technology,2023,Spring,Female,Weekly,Elective,Weekly,Yes,1.4,88.1,50.2,51.5,10.96,D,Teacher 8
+S016,Languages,Languages,2024,Summer,Female,Project,Elective,Weekly,Yes,1.4,88.1,50.2,51.8,10.56,D,Teacher 8
+S016,Physical Education,Physical Education,2023,Summer,Female,Weekly,Elective,Monthly,Yes,1.4,88.1,50.2,44.3,8.74,D,Teacher 8
+S017,English,English Language Arts,2024,Fall,Female,Quarter,Core,Term,Yes,2.3,81.0,82.7,70.7,16.7,B,Teacher 1
+S017,Arts,Arts,2025,Spring,Female,Quarter,Elective,Weekly,Yes,2.3,81.0,82.7,61.8,13.51,C,Teacher 1
+S017,Science,Science,2023,Fall,Female,Project,Core,Weekly,Yes,2.3,81.0,82.7,66.2,15.04,C,Teacher 1
+S017,Social Studies,Social Studies,2024,Spring,Female,Weekly,Core,Term,Yes,2.3,81.0,82.7,63.2,13.0,C,Teacher 1
+S017,Mathematics,Mathematics,2022,Fall,Female,Project,Core,Monthly,Yes,2.3,81.0,82.7,56.6,12.1,C,Teacher 1
+S017,Technology,Technology,2023,Spring,Female,Weekly,Core,Monthly,Yes,2.3,81.0,82.7,63.5,15.17,C,Teacher 1
+S017,Languages,Languages,2024,Summer,Female,Quarter,Core,Term,Yes,2.3,81.0,82.7,54.7,12.02,D,Teacher 1
+S017,Physical Education,Physical Education,2023,Summer,Female,Quarter,Core,Monthly,Yes,2.3,81.0,82.7,46.3,9.85,D,Teacher 1
+S018,English,English Language Arts,2024,Fall,Female,Weekly,Elective,Weekly,Yes,6.9,75.2,65.5,74.2,13.76,B,Teacher 2
+S018,Arts,Arts,2025,Spring,Female,Weekly,Core,Weekly,Yes,6.9,75.2,65.5,69.4,12.77,C,Teacher 2
+S018,Science,Science,2023,Fall,Female,Project,Core,Term,Yes,6.9,75.2,65.5,83.3,16.15,B,Teacher 2
+S018,Social Studies,Social Studies,2024,Spring,Female,Weekly,Elective,Term,Yes,6.9,75.2,65.5,71.8,15.93,B,Teacher 2
+S018,Mathematics,Mathematics,2022,Fall,Female,Quarter,Core,Weekly,Yes,6.9,75.2,65.5,71.3,15.21,B,Teacher 2
+S018,Technology,Technology,2023,Spring,Female,Project,Core,Term,Yes,6.9,75.2,65.5,72.3,13.46,B,Teacher 2
+S018,Languages,Languages,2024,Summer,Female,Project,Elective,Weekly,Yes,6.9,75.2,65.5,76.4,15.49,B,Teacher 2
+S018,Physical Education,Physical Education,2023,Summer,Female,Quarter,Core,Weekly,Yes,6.9,75.2,65.5,61.5,12.73,C,Teacher 2
+S019,English,English Language Arts,2024,Fall,Female,Quarter,Elective,Monthly,Yes,6.9,88.6,82.9,80.4,15.25,B,Teacher 3
+S019,Arts,Arts,2025,Spring,Female,Weekly,Core,Weekly,Yes,6.9,88.6,82.9,72.6,13.72,B,Teacher 3
+S019,Science,Science,2023,Fall,Female,Quarter,Core,Monthly,Yes,6.9,88.6,82.9,91.4,20.95,A,Teacher 3
+S019,Social Studies,Social Studies,2024,Spring,Female,Project,Elective,Term,Yes,6.9,88.6,82.9,86.4,16.12,A,Teacher 3
+S019,Mathematics,Mathematics,2022,Fall,Female,Weekly,Elective,Weekly,Yes,6.9,88.6,82.9,68.4,12.36,C,Teacher 3
+S019,Technology,Technology,2023,Spring,Female,Project,Elective,Term,Yes,6.9,88.6,82.9,79.1,17.33,B,Teacher 3
+S019,Languages,Languages,2024,Summer,Female,Quarter,Core,Term,Yes,6.9,88.6,82.9,88.9,16.95,A,Teacher 3
+S019,Physical Education,Physical Education,2023,Summer,Female,Weekly,Elective,Term,Yes,6.9,88.6,82.9,79.8,15.97,B,Teacher 3
+S020,English,English Language Arts,2024,Fall,Male,Weekly,Core,Monthly,Yes,4.9,87.7,64.0,65.5,14.26,C,Teacher 4
+S020,Arts,Arts,2025,Spring,Male,Weekly,Elective,Term,Yes,4.9,87.7,64.0,59.5,13.72,C,Teacher 4
+S020,Science,Science,2023,Fall,Male,Quarter,Elective,Weekly,Yes,4.9,87.7,64.0,67.6,12.46,C,Teacher 4
+S020,Social Studies,Social Studies,2024,Spring,Male,Project,Elective,Term,Yes,4.9,87.7,64.0,61.3,14.43,C,Teacher 4
+S020,Mathematics,Mathematics,2022,Fall,Male,Weekly,Core,Weekly,Yes,4.9,87.7,64.0,59.8,13.66,C,Teacher 4
+S020,Technology,Technology,2023,Spring,Male,Project,Elective,Weekly,Yes,4.9,87.7,64.0,60.8,12.16,C,Teacher 4
+S020,Languages,Languages,2024,Summer,Male,Quarter,Elective,Term,Yes,4.9,87.7,64.0,65.8,12.82,C,Teacher 4
+S020,Physical Education,Physical Education,2023,Summer,Male,Project,Elective,Term,Yes,4.9,87.7,64.0,67.3,12.92,C,Teacher 4
+S021,English,English Language Arts,2024,Fall,Female,Quarter,Core,Weekly,Yes,3.4,72.0,84.6,63.8,11.98,C,Teacher 5
+S021,Arts,Arts,2025,Spring,Female,Project,Core,Term,Yes,3.4,72.0,84.6,70.5,15.38,B,Teacher 5
+S021,Science,Science,2023,Fall,Female,Weekly,Core,Monthly,Yes,3.4,72.0,84.6,58.4,12.87,C,Teacher 5
+S021,Social Studies,Social Studies,2024,Spring,Female,Project,Core,Monthly,Yes,3.4,72.0,84.6,58.3,13.31,C,Teacher 5
+S021,Mathematics,Mathematics,2022,Fall,Female,Quarter,Elective,Weekly,Yes,3.4,72.0,84.6,59.3,11.82,C,Teacher 5
+S021,Technology,Technology,2023,Spring,Female,Quarter,Core,Weekly,Yes,3.4,72.0,84.6,56.1,11.53,C,Teacher 5
+S021,Languages,Languages,2024,Summer,Female,Project,Core,Weekly,Yes,3.4,72.0,84.6,55.8,13.27,C,Teacher 5
+S021,Physical Education,Physical Education,2023,Summer,Female,Weekly,Elective,Term,Yes,3.4,72.0,84.6,60.7,14.08,C,Teacher 5
+S022,English,English Language Arts,2024,Fall,Female,Quarter,Core,Monthly,Yes,4.6,95.4,85.4,72.6,17.12,B,Teacher 6
+S022,Arts,Arts,2025,Spring,Female,Project,Elective,Weekly,Yes,4.6,95.4,85.4,62.9,11.93,C,Teacher 6
+S022,Science,Science,2023,Fall,Female,Project,Elective,Weekly,Yes,4.6,95.4,85.4,81.8,16.25,B,Teacher 6
+S022,Social Studies,Social Studies,2024,Spring,Female,Quarter,Elective,Monthly,Yes,4.6,95.4,85.4,55.2,11.77,C,Teacher 6
+S022,Mathematics,Mathematics,2022,Fall,Female,Quarter,Core,Weekly,Yes,4.6,95.4,85.4,66.8,13.78,C,Teacher 6
+S022,Technology,Technology,2023,Spring,Female,Weekly,Core,Weekly,Yes,4.6,95.4,85.4,76.2,17.27,B,Teacher 6
+S022,Languages,Languages,2024,Summer,Female,Weekly,Core,Weekly,Yes,4.6,95.4,85.4,71.4,14.2,B,Teacher 6
+S022,Physical Education,Physical Education,2023,Summer,Female,Quarter,Core,Monthly,Yes,4.6,95.4,85.4,72.3,15.47,B,Teacher 6
+S023,English,English Language Arts,2024,Fall,Male,Project,Core,Weekly,Yes,2.6,67.6,76.3,50.6,11.13,D,Teacher 7
+S023,Arts,Arts,2025,Spring,Male,Quarter,Core,Monthly,Yes,2.6,67.6,76.3,65.7,12.27,C,Teacher 7
+S023,Science,Science,2023,Fall,Male,Weekly,Core,Monthly,Yes,2.6,67.6,76.3,43.3,9.39,D,Teacher 7
+S023,Social Studies,Social Studies,2024,Spring,Male,Quarter,Elective,Weekly,Yes,2.6,67.6,76.3,44.4,8.65,D,Teacher 7
+S023,Mathematics,Mathematics,2022,Fall,Male,Quarter,Core,Term,Yes,2.6,67.6,76.3,51.5,10.48,D,Teacher 7
+S023,Technology,Technology,2023,Spring,Male,Weekly,Core,Term,Yes,2.6,67.6,76.3,47.8,10.21,D,Teacher 7
+S023,Languages,Languages,2024,Summer,Male,Quarter,Core,Term,No,2.6,67.6,76.3,33.0,5.95,F,Teacher 7
+S023,Physical Education,Physical Education,2023,Summer,Male,Quarter,Core,Weekly,Yes,2.6,67.6,76.3,42.3,7.76,D,Teacher 7
+S024,English,English Language Arts,2024,Fall,Male,Project,Core,Term,Yes,2.0,75.9,92.1,50.0,11.07,D,Teacher 8
+S024,Arts,Arts,2025,Spring,Male,Project,Elective,Term,Yes,2.0,75.9,92.1,63.0,13.41,C,Teacher 8
+S024,Science,Science,2023,Fall,Male,Project,Elective,Monthly,Yes,2.0,75.9,92.1,50.5,10.62,D,Teacher 8
+S024,Social Studies,Social Studies,2024,Spring,Male,Quarter,Core,Term,Yes,2.0,75.9,92.1,65.0,12.81,C,Teacher 8
+S024,Mathematics,Mathematics,2022,Fall,Male,Weekly,Elective,Term,Yes,2.0,75.9,92.1,51.8,9.61,D,Teacher 8
+S024,Technology,Technology,2023,Spring,Male,Project,Core,Weekly,Yes,2.0,75.9,92.1,57.2,10.41,C,Teacher 8
+S024,Languages,Languages,2024,Summer,Male,Quarter,Elective,Term,Yes,2.0,75.9,92.1,54.7,12.35,D,Teacher 8
+S024,Physical Education,Physical Education,2023,Summer,Male,Project,Elective,Term,Yes,2.0,75.9,92.1,47.7,8.78,D,Teacher 8
+S025,English,English Language Arts,2024,Fall,Female,Project,Core,Weekly,Yes,6.9,80.1,92.8,84.3,15.57,B,Teacher 1
+S025,Arts,Arts,2025,Spring,Female,Quarter,Elective,Term,Yes,6.9,80.1,92.8,79.9,15.45,B,Teacher 1
+S025,Science,Science,2023,Fall,Female,Weekly,Elective,Term,Yes,6.9,80.1,92.8,86.6,16.02,A,Teacher 1
+S025,Social Studies,Social Studies,2024,Spring,Female,Quarter,Core,Term,Yes,6.9,80.1,92.8,76.3,18.01,B,Teacher 1
+S025,Mathematics,Mathematics,2022,Fall,Female,Project,Elective,Weekly,Yes,6.9,80.1,92.8,86.1,16.0,A,Teacher 1
+S025,Technology,Technology,2023,Spring,Female,Quarter,Elective,Weekly,Yes,6.9,80.1,92.8,76.9,17.06,B,Teacher 1
+S025,Languages,Languages,2024,Summer,Female,Weekly,Core,Weekly,Yes,6.9,80.1,92.8,93.8,20.99,A,Teacher 1
+S025,Physical Education,Physical Education,2023,Summer,Female,Weekly,Elective,Term,Yes,6.9,80.1,92.8,80.2,17.03,B,Teacher 1
+S026,English,English Language Arts,2024,Fall,Female,Quarter,Elective,Term,Yes,5.4,68.9,55.6,53.2,11.87,D,Teacher 2
+S026,Arts,Arts,2025,Spring,Female,Project,Core,Term,Yes,5.4,68.9,55.6,61.6,11.11,C,Teacher 2
+S026,Science,Science,2023,Fall,Female,Project,Core,Weekly,Yes,5.4,68.9,55.6,55.5,11.18,C,Teacher 2
+S026,Social Studies,Social Studies,2024,Spring,Female,Weekly,Core,Term,Yes,5.4,68.9,55.6,64.9,14.13,C,Teacher 2
+S026,Mathematics,Mathematics,2022,Fall,Female,Weekly,Core,Weekly,Yes,5.4,68.9,55.6,65.2,13.58,C,Teacher 2
+S026,Technology,Technology,2023,Spring,Female,Quarter,Elective,Monthly,Yes,5.4,68.9,55.6,78.1,16.99,B,Teacher 2
+S026,Languages,Languages,2024,Summer,Female,Weekly,Elective,Term,Yes,5.4,68.9,55.6,71.0,13.44,B,Teacher 2
+S026,Physical Education,Physical Education,2023,Summer,Female,Weekly,Elective,Monthly,Yes,5.4,68.9,55.6,64.5,12.82,C,Teacher 2
+S027,English,English Language Arts,2024,Fall,Male,Quarter,Core,Monthly,Yes,4.6,74.8,50.8,78.4,14.42,B,Teacher 3
+S027,Arts,Arts,2025,Spring,Male,Project,Elective,Monthly,Yes,4.6,74.8,50.8,54.7,10.01,D,Teacher 3
+S027,Science,Science,2023,Fall,Male,Quarter,Core,Monthly,Yes,4.6,74.8,50.8,61.2,11.02,C,Teacher 3
+S027,Social Studies,Social Studies,2024,Spring,Male,Project,Elective,Term,Yes,4.6,74.8,50.8,50.2,11.98,D,Teacher 3
+S027,Mathematics,Mathematics,2022,Fall,Male,Project,Elective,Weekly,Yes,4.6,74.8,50.8,57.4,11.42,C,Teacher 3
+S027,Technology,Technology,2023,Spring,Male,Weekly,Elective,Weekly,Yes,4.6,74.8,50.8,61.1,14.4,C,Teacher 3
+S027,Languages,Languages,2024,Summer,Male,Project,Core,Weekly,Yes,4.6,74.8,50.8,59.9,14.25,C,Teacher 3
+S027,Physical Education,Physical Education,2023,Summer,Male,Weekly,Core,Term,Yes,4.6,74.8,50.8,71.2,16.85,B,Teacher 3
+S028,English,English Language Arts,2024,Fall,Male,Weekly,Elective,Term,Yes,4.2,81.3,56.9,64.9,12.89,C,Teacher 4
+S028,Arts,Arts,2025,Spring,Male,Weekly,Elective,Term,Yes,4.2,81.3,56.9,67.1,13.33,C,Teacher 4
+S028,Science,Science,2023,Fall,Male,Weekly,Core,Monthly,Yes,4.2,81.3,56.9,78.7,14.52,B,Teacher 4
+S028,Social Studies,Social Studies,2024,Spring,Male,Project,Elective,Monthly,Yes,4.2,81.3,56.9,52.5,11.56,D,Teacher 4
+S028,Mathematics,Mathematics,2022,Fall,Male,Weekly,Elective,Weekly,Yes,4.2,81.3,56.9,58.7,13.75,C,Teacher 4
+S028,Technology,Technology,2023,Spring,Male,Project,Elective,Weekly,Yes,4.2,81.3,56.9,68.1,14.25,C,Teacher 4
+S028,Languages,Languages,2024,Summer,Male,Quarter,Core,Monthly,Yes,4.2,81.3,56.9,63.2,14.02,C,Teacher 4
+S028,Physical Education,Physical Education,2023,Summer,Male,Project,Core,Term,Yes,4.2,81.3,56.9,53.7,12.88,D,Teacher 4
+S029,English,English Language Arts,2024,Fall,Female,Project,Core,Monthly,Yes,6.7,81.2,78.6,74.0,17.36,B,Teacher 5
+S029,Arts,Arts,2025,Spring,Female,Project,Core,Monthly,Yes,6.7,81.2,78.6,74.3,15.71,B,Teacher 5
+S029,Science,Science,2023,Fall,Female,Weekly,Elective,Weekly,Yes,6.7,81.2,78.6,84.1,17.77,B,Teacher 5
+S029,Social Studies,Social Studies,2024,Spring,Female,Weekly,Elective,Term,Yes,6.7,81.2,78.6,73.5,14.81,B,Teacher 5
+S029,Mathematics,Mathematics,2022,Fall,Female,Project,Elective,Term,Yes,6.7,81.2,78.6,84.1,16.86,B,Teacher 5
+S029,Technology,Technology,2023,Spring,Female,Weekly,Elective,Weekly,Yes,6.7,81.2,78.6,55.9,12.64,C,Teacher 5
+S029,Languages,Languages,2024,Summer,Female,Quarter,Elective,Term,Yes,6.7,81.2,78.6,73.9,15.48,B,Teacher 5
+S029,Physical Education,Physical Education,2023,Summer,Female,Weekly,Elective,Term,Yes,6.7,81.2,78.6,78.9,16.69,B,Teacher 5
+S030,English,English Language Arts,2024,Fall,Female,Weekly,Core,Weekly,Yes,5.7,79.8,83.4,72.6,15.83,B,Teacher 6
+S030,Arts,Arts,2025,Spring,Female,Quarter,Core,Term,Yes,5.7,79.8,83.4,69.0,14.7,C,Teacher 6
+S030,Science,Science,2023,Fall,Female,Quarter,Elective,Weekly,Yes,5.7,79.8,83.4,62.1,13.56,C,Teacher 6
+S030,Social Studies,Social Studies,2024,Spring,Female,Weekly,Elective,Monthly,Yes,5.7,79.8,83.4,80.9,17.34,B,Teacher 6
+S030,Mathematics,Mathematics,2022,Fall,Female,Project,Core,Term,Yes,5.7,79.8,83.4,79.5,16.43,B,Teacher 6
+S030,Technology,Technology,2023,Spring,Female,Project,Elective,Term,Yes,5.7,79.8,83.4,72.9,15.67,B,Teacher 6
+S030,Languages,Languages,2024,Summer,Female,Project,Elective,Weekly,Yes,5.7,79.8,83.4,65.2,14.61,C,Teacher 6
+S030,Physical Education,Physical Education,2023,Summer,Female,Quarter,Core,Monthly,Yes,5.7,79.8,83.4,78.4,15.49,B,Teacher 6
+S031,English,English Language Arts,2024,Fall,Male,Weekly,Core,Term,Yes,4.0,86.5,65.1,69.3,14.82,C,Teacher 7
+S031,Arts,Arts,2025,Spring,Male,Project,Elective,Term,Yes,4.0,86.5,65.1,63.5,15.21,C,Teacher 7
+S031,Science,Science,2023,Fall,Male,Project,Elective,Weekly,Yes,4.0,86.5,65.1,56.1,13.32,C,Teacher 7
+S031,Social Studies,Social Studies,2024,Spring,Male,Project,Core,Term,Yes,4.0,86.5,65.1,72.1,15.02,B,Teacher 7
+S031,Mathematics,Mathematics,2022,Fall,Male,Quarter,Elective,Weekly,Yes,4.0,86.5,65.1,61.4,12.17,C,Teacher 7
+S031,Technology,Technology,2023,Spring,Male,Quarter,Elective,Term,Yes,4.0,86.5,65.1,66.2,14.04,C,Teacher 7
+S031,Languages,Languages,2024,Summer,Male,Quarter,Core,Weekly,Yes,4.0,86.5,65.1,56.4,11.75,C,Teacher 7
+S031,Physical Education,Physical Education,2023,Summer,Male,Weekly,Elective,Weekly,Yes,4.0,86.5,65.1,63.1,11.43,C,Teacher 7
+S032,English,English Language Arts,2024,Fall,Female,Weekly,Elective,Weekly,Yes,5.5,84.1,51.4,64.3,12.86,C,Teacher 8
+S032,Arts,Arts,2025,Spring,Female,Project,Elective,Term,Yes,5.5,84.1,51.4,62.1,11.54,C,Teacher 8
+S032,Science,Science,2023,Fall,Female,Project,Core,Term,Yes,5.5,84.1,51.4,73.0,13.82,B,Teacher 8
+S032,Social Studies,Social Studies,2024,Spring,Female,Weekly,Core,Weekly,Yes,5.5,84.1,51.4,65.4,12.59,C,Teacher 8
+S032,Mathematics,Mathematics,2022,Fall,Female,Quarter,Core,Monthly,Yes,5.5,84.1,51.4,72.5,17.11,B,Teacher 8
+S032,Technology,Technology,2023,Spring,Female,Project,Elective,Monthly,Yes,5.5,84.1,51.4,66.5,14.88,C,Teacher 8
+S032,Languages,Languages,2024,Summer,Female,Project,Elective,Weekly,Yes,5.5,84.1,51.4,58.0,13.68,C,Teacher 8
+S032,Physical Education,Physical Education,2023,Summer,Female,Project,Elective,Term,Yes,5.5,84.1,51.4,64.7,12.58,C,Teacher 8
+S033,English,English Language Arts,2024,Fall,Male,Weekly,Elective,Weekly,Yes,4.5,90.4,79.7,81.3,16.08,B,Teacher 1
+S033,Arts,Arts,2025,Spring,Male,Weekly,Core,Monthly,Yes,4.5,90.4,79.7,64.3,14.92,C,Teacher 1
+S033,Science,Science,2023,Fall,Male,Quarter,Elective,Term,Yes,4.5,90.4,79.7,58.0,12.24,C,Teacher 1
+S033,Social Studies,Social Studies,2024,Spring,Male,Quarter,Elective,Term,Yes,4.5,90.4,79.7,60.0,11.37,C,Teacher 1
+S033,Mathematics,Mathematics,2022,Fall,Male,Project,Elective,Term,Yes,4.5,90.4,79.7,71.8,14.42,B,Teacher 1
+S033,Technology,Technology,2023,Spring,Male,Weekly,Elective,Monthly,Yes,4.5,90.4,79.7,62.8,12.86,C,Teacher 1
+S033,Languages,Languages,2024,Summer,Male,Project,Elective,Monthly,Yes,4.5,90.4,79.7,68.2,15.82,C,Teacher 1
+S033,Physical Education,Physical Education,2023,Summer,Male,Quarter,Elective,Weekly,Yes,4.5,90.4,79.7,73.8,16.83,B,Teacher 1
+S034,English,English Language Arts,2024,Fall,Female,Weekly,Core,Term,Yes,3.2,93.3,50.0,69.0,16.23,C,Teacher 2
+S034,Arts,Arts,2025,Spring,Female,Project,Core,Weekly,Yes,3.2,93.3,50.0,63.1,12.76,C,Teacher 2
+S034,Science,Science,2023,Fall,Female,Quarter,Elective,Term,Yes,3.2,93.3,50.0,54.4,10.88,D,Teacher 2
+S034,Social Studies,Social Studies,2024,Spring,Female,Quarter,Core,Monthly,Yes,3.2,93.3,50.0,68.1,15.15,C,Teacher 2
+S034,Mathematics,Mathematics,2022,Fall,Female,Quarter,Elective,Term,Yes,3.2,93.3,50.0,41.8,8.3,D,Teacher 2
+S034,Technology,Technology,2023,Spring,Female,Project,Core,Weekly,Yes,3.2,93.3,50.0,50.7,11.56,D,Teacher 2
+S034,Languages,Languages,2024,Summer,Female,Quarter,Core,Weekly,Yes,3.2,93.3,50.0,45.7,8.68,D,Teacher 2
+S034,Physical Education,Physical Education,2023,Summer,Female,Weekly,Core,Monthly,Yes,3.2,93.3,50.0,59.9,14.35,C,Teacher 2
+S035,English,English Language Arts,2024,Fall,Female,Project,Core,Term,Yes,6.8,92.3,75.6,74.4,16.15,B,Teacher 3
+S035,Arts,Arts,2025,Spring,Female,Project,Core,Weekly,Yes,6.8,92.3,75.6,83.9,19.17,B,Teacher 3
+S035,Science,Science,2023,Fall,Female,Weekly,Core,Weekly,Yes,6.8,92.3,75.6,70.7,13.68,B,Teacher 3
+S035,Social Studies,Social Studies,2024,Spring,Female,Quarter,Core,Weekly,Yes,6.8,92.3,75.6,89.9,18.13,A,Teacher 3
+S035,Mathematics,Mathematics,2022,Fall,Female,Project,Core,Weekly,Yes,6.8,92.3,75.6,68.9,14.92,C,Teacher 3
+S035,Technology,Technology,2023,Spring,Female,Weekly,Core,Term,Yes,6.8,92.3,75.6,86.0,18.93,A,Teacher 3
+S035,Languages,Languages,2024,Summer,Female,Project,Elective,Weekly,Yes,6.8,92.3,75.6,68.8,14.74,C,Teacher 3
+S035,Physical Education,Physical Education,2023,Summer,Female,Project,Core,Weekly,Yes,6.8,92.3,75.6,81.4,19.42,B,Teacher 3
+S036,English,English Language Arts,2024,Fall,Male,Quarter,Elective,Weekly,Yes,5.3,93.5,89.7,73.1,16.03,B,Teacher 4
+S036,Arts,Arts,2025,Spring,Male,Weekly,Core,Term,Yes,5.3,93.5,89.7,63.1,14.01,C,Teacher 4
+S036,Science,Science,2023,Fall,Male,Weekly,Core,Weekly,Yes,5.3,93.5,89.7,73.2,15.7,B,Teacher 4
+S036,Social Studies,Social Studies,2024,Spring,Male,Weekly,Elective,Monthly,Yes,5.3,93.5,89.7,81.1,15.63,B,Teacher 4
+S036,Mathematics,Mathematics,2022,Fall,Male,Quarter,Elective,Term,Yes,5.3,93.5,89.7,75.0,15.29,B,Teacher 4
+S036,Technology,Technology,2023,Spring,Male,Quarter,Elective,Term,Yes,5.3,93.5,89.7,80.7,17.21,B,Teacher 4
+S036,Languages,Languages,2024,Summer,Male,Quarter,Core,Monthly,Yes,5.3,93.5,89.7,81.9,18.18,B,Teacher 4
+S036,Physical Education,Physical Education,2023,Summer,Male,Project,Core,Weekly,Yes,5.3,93.5,89.7,79.0,15.44,B,Teacher 4
+S037,English,English Language Arts,2024,Fall,Male,Project,Elective,Weekly,Yes,5.7,82.8,73.8,69.2,13.53,C,Teacher 5
+S037,Arts,Arts,2025,Spring,Male,Quarter,Elective,Term,Yes,5.7,82.8,73.8,56.8,10.81,C,Teacher 5
+S037,Science,Science,2023,Fall,Male,Quarter,Core,Monthly,Yes,5.7,82.8,73.8,60.3,13.29,C,Teacher 5
+S037,Social Studies,Social Studies,2024,Spring,Male,Weekly,Elective,Monthly,Yes,5.7,82.8,73.8,72.5,17.12,B,Teacher 5
+S037,Mathematics,Mathematics,2022,Fall,Male,Quarter,Core,Term,Yes,5.7,82.8,73.8,73.3,17.2,B,Teacher 5
+S037,Technology,Technology,2023,Spring,Male,Project,Core,Monthly,Yes,5.7,82.8,73.8,69.6,12.75,C,Teacher 5
+S037,Languages,Languages,2024,Summer,Male,Project,Core,Monthly,Yes,5.7,82.8,73.8,68.4,12.85,C,Teacher 5
+S037,Physical Education,Physical Education,2023,Summer,Male,Project,Core,Term,Yes,5.7,82.8,73.8,75.9,17.13,B,Teacher 5
+S038,English,English Language Arts,2024,Fall,Male,Weekly,Core,Term,Yes,2.5,70.5,46.6,49.1,9.96,D,Teacher 6
+S038,Arts,Arts,2025,Spring,Male,Project,Elective,Term,Yes,2.5,70.5,46.6,46.4,8.46,D,Teacher 6
+S038,Science,Science,2023,Fall,Male,Weekly,Core,Monthly,Yes,2.5,70.5,46.6,42.2,9.74,D,Teacher 6
+S038,Social Studies,Social Studies,2024,Spring,Male,Quarter,Core,Weekly,Yes,2.5,70.5,46.6,49.7,10.39,D,Teacher 6
+S038,Mathematics,Mathematics,2022,Fall,Male,Weekly,Core,Monthly,Yes,2.5,70.5,46.6,53.7,11.95,D,Teacher 6
+S038,Technology,Technology,2023,Spring,Male,Weekly,Elective,Weekly,Yes,2.5,70.5,46.6,44.7,8.45,D,Teacher 6
+S038,Languages,Languages,2024,Summer,Male,Project,Elective,Weekly,No,2.5,70.5,46.6,36.2,7.76,F,Teacher 6
+S038,Physical Education,Physical Education,2023,Summer,Male,Weekly,Elective,Weekly,Yes,2.5,70.5,46.6,41.5,7.59,D,Teacher 6
+S039,English,English Language Arts,2024,Fall,Male,Quarter,Elective,Monthly,Yes,3.5,86.2,67.8,65.0,13.52,C,Teacher 7
+S039,Arts,Arts,2025,Spring,Male,Weekly,Core,Term,Yes,3.5,86.2,67.8,57.5,10.8,C,Teacher 7
+S039,Science,Science,2023,Fall,Male,Quarter,Core,Monthly,Yes,3.5,86.2,67.8,54.8,13.02,D,Teacher 7
+S039,Social Studies,Social Studies,2024,Spring,Male,Quarter,Core,Monthly,Yes,3.5,86.2,67.8,54.8,12.12,D,Teacher 7
+S039,Mathematics,Mathematics,2022,Fall,Male,Weekly,Core,Weekly,Yes,3.5,86.2,67.8,43.7,9.6,D,Teacher 7
+S039,Technology,Technology,2023,Spring,Male,Project,Core,Monthly,Yes,3.5,86.2,67.8,58.6,10.87,C,Teacher 7
+S039,Languages,Languages,2024,Summer,Male,Weekly,Core,Weekly,Yes,3.5,86.2,67.8,67.2,13.03,C,Teacher 7
+S039,Physical Education,Physical Education,2023,Summer,Male,Weekly,Core,Weekly,Yes,3.5,86.2,67.8,66.9,12.57,C,Teacher 7
+S040,English,English Language Arts,2024,Fall,Male,Quarter,Core,Monthly,Yes,2.0,77.4,46.6,53.3,12.27,D,Teacher 8
+S040,Arts,Arts,2025,Spring,Male,Quarter,Core,Term,Yes,2.0,77.4,46.6,51.1,9.68,D,Teacher 8
+S040,Science,Science,2023,Fall,Male,Weekly,Elective,Weekly,Yes,2.0,77.4,46.6,40.2,7.92,D,Teacher 8
+S040,Social Studies,Social Studies,2024,Spring,Male,Quarter,Core,Monthly,Yes,2.0,77.4,46.6,44.2,9.45,D,Teacher 8
+S040,Mathematics,Mathematics,2022,Fall,Male,Quarter,Elective,Weekly,Yes,2.0,77.4,46.6,48.3,11.5,D,Teacher 8
+S040,Technology,Technology,2023,Spring,Male,Quarter,Elective,Monthly,Yes,2.0,77.4,46.6,56.3,11.07,C,Teacher 8
+S040,Languages,Languages,2024,Summer,Male,Weekly,Elective,Weekly,No,2.0,77.4,46.6,39.9,8.79,F,Teacher 8
+S040,Physical Education,Physical Education,2023,Summer,Male,Quarter,Elective,Monthly,Yes,2.0,77.4,46.6,48.6,10.06,D,Teacher 8
+S041,English,English Language Arts,2024,Fall,Female,Project,Core,Term,Yes,5.0,67.8,71.9,52.9,10.49,D,Teacher 1
+S041,Arts,Arts,2025,Spring,Female,Weekly,Elective,Weekly,Yes,5.0,67.8,71.9,59.2,10.96,C,Teacher 1
+S041,Science,Science,2023,Fall,Female,Project,Core,Weekly,Yes,5.0,67.8,71.9,59.8,12.78,C,Teacher 1
+S041,Social Studies,Social Studies,2024,Spring,Female,Weekly,Core,Weekly,Yes,5.0,67.8,71.9,67.1,13.76,C,Teacher 1
+S041,Mathematics,Mathematics,2022,Fall,Female,Project,Elective,Weekly,Yes,5.0,67.8,71.9,59.9,13.53,C,Teacher 1
+S041,Technology,Technology,2023,Spring,Female,Weekly,Core,Term,Yes,5.0,67.8,71.9,51.8,10.96,D,Teacher 1
+S041,Languages,Languages,2024,Summer,Female,Weekly,Core,Monthly,Yes,5.0,67.8,71.9,61.1,14.67,C,Teacher 1
+S041,Physical Education,Physical Education,2023,Summer,Female,Project,Elective,Monthly,Yes,5.0,67.8,71.9,69.3,14.38,C,Teacher 1
+S042,English,English Language Arts,2024,Fall,Male,Quarter,Core,Term,Yes,5.1,71.6,57.9,58.9,11.69,C,Teacher 2
+S042,Arts,Arts,2025,Spring,Male,Weekly,Elective,Term,Yes,5.1,71.6,57.9,49.2,10.61,D,Teacher 2
+S042,Science,Science,2023,Fall,Male,Weekly,Elective,Term,Yes,5.1,71.6,57.9,60.8,14.28,C,Teacher 2
+S042,Social Studies,Social Studies,2024,Spring,Male,Project,Core,Term,Yes,5.1,71.6,57.9,63.3,12.97,C,Teacher 2
+S042,Mathematics,Mathematics,2022,Fall,Male,Project,Elective,Term,Yes,5.1,71.6,57.9,64.5,15.24,C,Teacher 2
+S042,Technology,Technology,2023,Spring,Male,Weekly,Core,Weekly,Yes,5.1,71.6,57.9,74.3,16.62,B,Teacher 2
+S042,Languages,Languages,2024,Summer,Male,Weekly,Core,Term,Yes,5.1,71.6,57.9,63.6,14.42,C,Teacher 2
+S042,Physical Education,Physical Education,2023,Summer,Male,Quarter,Core,Weekly,Yes,5.1,71.6,57.9,67.2,13.91,C,Teacher 2
+S043,English,English Language Arts,2024,Fall,Male,Weekly,Core,Term,Yes,2.9,92.0,47.1,58.1,13.29,C,Teacher 3
+S043,Arts,Arts,2025,Spring,Male,Weekly,Core,Weekly,Yes,2.9,92.0,47.1,55.4,10.48,C,Teacher 3
+S043,Science,Science,2023,Fall,Male,Project,Core,Term,Yes,2.9,92.0,47.1,59.8,13.16,C,Teacher 3
+S043,Social Studies,Social Studies,2024,Spring,Male,Weekly,Core,Monthly,Yes,2.9,92.0,47.1,44.7,9.59,D,Teacher 3
+S043,Mathematics,Mathematics,2022,Fall,Male,Weekly,Core,Monthly,Yes,2.9,92.0,47.1,60.3,12.74,C,Teacher 3
+S043,Technology,Technology,2023,Spring,Male,Quarter,Elective,Monthly,Yes,2.9,92.0,47.1,43.3,9.53,D,Teacher 3
+S043,Languages,Languages,2024,Summer,Male,Quarter,Elective,Weekly,Yes,2.9,92.0,47.1,48.3,11.17,D,Teacher 3
+S043,Physical Education,Physical Education,2023,Summer,Male,Quarter,Elective,Monthly,Yes,2.9,92.0,47.1,53.0,11.95,D,Teacher 3
+S044,English,English Language Arts,2024,Fall,Female,Quarter,Elective,Term,Yes,4.2,88.9,75.5,67.3,13.29,C,Teacher 4
+S044,Arts,Arts,2025,Spring,Female,Quarter,Elective,Monthly,Yes,4.2,88.9,75.5,58.5,11.49,C,Teacher 4
+S044,Science,Science,2023,Fall,Female,Project,Core,Weekly,Yes,4.2,88.9,75.5,64.1,12.51,C,Teacher 4
+S044,Social Studies,Social Studies,2024,Spring,Female,Quarter,Elective,Weekly,Yes,4.2,88.9,75.5,62.0,12.61,C,Teacher 4
+S044,Mathematics,Mathematics,2022,Fall,Female,Project,Core,Term,Yes,4.2,88.9,75.5,61.0,10.98,C,Teacher 4
+S044,Technology,Technology,2023,Spring,Female,Quarter,Elective,Monthly,Yes,4.2,88.9,75.5,66.7,14.09,C,Teacher 4
+S044,Languages,Languages,2024,Summer,Female,Weekly,Elective,Weekly,Yes,4.2,88.9,75.5,67.5,12.96,C,Teacher 4
+S044,Physical Education,Physical Education,2023,Summer,Female,Weekly,Elective,Monthly,Yes,4.2,88.9,75.5,79.5,15.54,B,Teacher 4
+S045,English,English Language Arts,2024,Fall,Female,Project,Core,Monthly,Yes,4.6,96.4,92.0,87.3,20.41,A,Teacher 5
+S045,Arts,Arts,2025,Spring,Female,Project,Elective,Term,Yes,4.6,96.4,92.0,72.2,14.23,B,Teacher 5
+S045,Science,Science,2023,Fall,Female,Weekly,Core,Weekly,Yes,4.6,96.4,92.0,74.2,15.84,B,Teacher 5
+S045,Social Studies,Social Studies,2024,Spring,Female,Weekly,Core,Weekly,Yes,4.6,96.4,92.0,69.4,13.37,C,Teacher 5
+S045,Mathematics,Mathematics,2022,Fall,Female,Quarter,Core,Weekly,Yes,4.6,96.4,92.0,75.6,17.83,B,Teacher 5
+S045,Technology,Technology,2023,Spring,Female,Project,Core,Weekly,Yes,4.6,96.4,92.0,76.2,17.54,B,Teacher 5
+S045,Languages,Languages,2024,Summer,Female,Weekly,Core,Monthly,Yes,4.6,96.4,92.0,92.0,21.7,A,Teacher 5
+S045,Physical Education,Physical Education,2023,Summer,Female,Project,Elective,Monthly,Yes,4.6,96.4,92.0,66.1,15.48,C,Teacher 5
+S046,English,English Language Arts,2024,Fall,Female,Quarter,Elective,Monthly,Yes,2.2,77.6,49.2,51.4,10.08,D,Teacher 6
+S046,Arts,Arts,2025,Spring,Female,Weekly,Elective,Term,Yes,2.2,77.6,49.2,49.1,8.96,D,Teacher 6
+S046,Science,Science,2023,Fall,Female,Weekly,Core,Monthly,Yes,2.2,77.6,49.2,48.2,9.17,D,Teacher 6
+S046,Social Studies,Social Studies,2024,Spring,Female,Weekly,Elective,Monthly,Yes,2.2,77.6,49.2,59.1,11.51,C,Teacher 6
+S046,Mathematics,Mathematics,2022,Fall,Female,Weekly,Elective,Monthly,Yes,2.2,77.6,49.2,47.0,8.54,D,Teacher 6
+S046,Technology,Technology,2023,Spring,Female,Project,Elective,Monthly,Yes,2.2,77.6,49.2,49.5,9.77,D,Teacher 6
+S046,Languages,Languages,2024,Summer,Female,Weekly,Elective,Term,Yes,2.2,77.6,49.2,43.0,7.8,D,Teacher 6
+S046,Physical Education,Physical Education,2023,Summer,Female,Project,Elective,Term,No,2.2,77.6,49.2,34.5,8.11,F,Teacher 6
+S047,English,English Language Arts,2024,Fall,Female,Quarter,Elective,Weekly,Yes,4.5,70.5,59.6,62.9,12.54,C,Teacher 7
+S047,Arts,Arts,2025,Spring,Female,Project,Core,Monthly,Yes,4.5,70.5,59.6,54.1,12.42,D,Teacher 7
+S047,Science,Science,2023,Fall,Female,Quarter,Elective,Weekly,Yes,4.5,70.5,59.6,56.2,11.95,C,Teacher 7
+S047,Social Studies,Social Studies,2024,Spring,Female,Quarter,Core,Weekly,Yes,4.5,70.5,59.6,54.4,11.64,D,Teacher 7
+S047,Mathematics,Mathematics,2022,Fall,Female,Weekly,Core,Monthly,Yes,4.5,70.5,59.6,54.7,10.04,D,Teacher 7
+S047,Technology,Technology,2023,Spring,Female,Quarter,Elective,Term,Yes,4.5,70.5,59.6,45.2,8.47,D,Teacher 7
+S047,Languages,Languages,2024,Summer,Female,Quarter,Elective,Term,Yes,4.5,70.5,59.6,67.6,15.26,C,Teacher 7
+S047,Physical Education,Physical Education,2023,Summer,Female,Weekly,Core,Weekly,Yes,4.5,70.5,59.6,43.8,8.69,D,Teacher 7
+S048,English,English Language Arts,2024,Fall,Female,Weekly,Elective,Weekly,Yes,4.8,90.7,68.7,60.4,13.91,C,Teacher 8
+S048,Arts,Arts,2025,Spring,Female,Weekly,Core,Monthly,Yes,4.8,90.7,68.7,76.1,14.81,B,Teacher 8
+S048,Science,Science,2023,Fall,Female,Quarter,Elective,Term,Yes,4.8,90.7,68.7,75.7,14.82,B,Teacher 8
+S048,Social Studies,Social Studies,2024,Spring,Female,Project,Elective,Term,Yes,4.8,90.7,68.7,64.1,12.32,C,Teacher 8
+S048,Mathematics,Mathematics,2022,Fall,Female,Weekly,Elective,Weekly,Yes,4.8,90.7,68.7,63.8,12.04,C,Teacher 8
+S048,Technology,Technology,2023,Spring,Female,Project,Core,Weekly,Yes,4.8,90.7,68.7,71.7,14.99,B,Teacher 8
+S048,Languages,Languages,2024,Summer,Female,Quarter,Core,Term,Yes,4.8,90.7,68.7,72.1,16.14,B,Teacher 8
+S048,Physical Education,Physical Education,2023,Summer,Female,Weekly,Core,Weekly,Yes,4.8,90.7,68.7,56.3,11.09,C,Teacher 8
+S049,English,English Language Arts,2024,Fall,Female,Project,Elective,Weekly,Yes,3.1,88.8,68.7,56.6,11.32,C,Teacher 1
+S049,Arts,Arts,2025,Spring,Female,Project,Core,Term,Yes,3.1,88.8,68.7,63.9,14.97,C,Teacher 1
+S049,Science,Science,2023,Fall,Female,Quarter,Elective,Term,Yes,3.1,88.8,68.7,48.6,10.21,D,Teacher 1
+S049,Social Studies,Social Studies,2024,Spring,Female,Quarter,Elective,Weekly,Yes,3.1,88.8,68.7,66.4,12.53,C,Teacher 1
+S049,Mathematics,Mathematics,2022,Fall,Female,Project,Core,Weekly,Yes,3.1,88.8,68.7,61.2,12.49,C,Teacher 1
+S049,Technology,Technology,2023,Spring,Female,Project,Core,Weekly,Yes,3.1,88.8,68.7,69.0,15.68,C,Teacher 1
+S049,Languages,Languages,2024,Summer,Female,Project,Core,Term,Yes,3.1,88.8,68.7,66.8,14.76,C,Teacher 1
+S049,Physical Education,Physical Education,2023,Summer,Female,Project,Elective,Term,Yes,3.1,88.8,68.7,65.2,15.05,C,Teacher 1
+S050,English,English Language Arts,2024,Fall,Male,Weekly,Elective,Monthly,Yes,2.4,90.3,57.1,53.4,10.16,D,Teacher 2
+S050,Arts,Arts,2025,Spring,Male,Project,Elective,Monthly,Yes,2.4,90.3,57.1,48.8,10.99,D,Teacher 2
+S050,Science,Science,2023,Fall,Male,Weekly,Core,Term,Yes,2.4,90.3,57.1,59.2,12.07,C,Teacher 2
+S050,Social Studies,Social Studies,2024,Spring,Male,Quarter,Core,Weekly,Yes,2.4,90.3,57.1,51.9,10.3,D,Teacher 2
+S050,Mathematics,Mathematics,2022,Fall,Male,Quarter,Core,Term,Yes,2.4,90.3,57.1,53.2,11.39,D,Teacher 2
+S050,Technology,Technology,2023,Spring,Male,Project,Core,Monthly,Yes,2.4,90.3,57.1,61.4,11.69,C,Teacher 2
+S050,Languages,Languages,2024,Summer,Male,Project,Elective,Weekly,Yes,2.4,90.3,57.1,50.1,11.76,D,Teacher 2
+S050,Physical Education,Physical Education,2023,Summer,Male,Quarter,Core,Weekly,Yes,2.4,90.3,57.1,59.5,10.82,C,Teacher 2
